@@ -11,6 +11,6 @@ Arthem2002/Arthem2002 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# My name is Arthem Smalyukh
-# Business Analytic major at DePaul Univeristy
-# Work with SQL, Python, and R Studio
+### My name is Arthem Smalyukh
+### Business Analytic major at DePaul Univeristy
+### Work with SQL, Python, and R Studio 
